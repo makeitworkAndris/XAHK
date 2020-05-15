@@ -275,7 +275,7 @@ MobGrind:
 		
 	BreakLoop := 0
 	Delay := 0
-	Sleep 500
+	Sleep 100
 	While (BreakLoop = 0)
 	{
 		;on each loop send RIGHT key down as it can be lost when switching focus
